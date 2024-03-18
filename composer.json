@@ -1,0 +1,13 @@
+{
+    "name": "tan/chat",
+    "description": "Chat",
+    "autoload": {
+        "psr-4": {
+            "Tan\\Chat\\": "src/"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+    
+}
